@@ -31,5 +31,7 @@ public class Test {
 			
 			System.out.println("hello5");
 			
+			System.out.println("hello 6");
+			
 }
 }
